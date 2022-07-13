@@ -67,9 +67,12 @@ global.nameown = 'Rava - Kun'
 /*============== STAFF ==============*/
 global.owner = [
   ['6281212035575', 'Pfft', true]
-] // [number, dia creator/owner?, dia developer?]
- // Put your number here
+  // [number, dia creator/owner?, dia developer?]
+] // Put your number here
 global.mods = [
+	['6281212035575'],
+	['6281212035575'],
+	['6281212035575', 'Rava', true],
 	['6281212035575', 'Rava', true]
 ] 
 global.prems = [ ] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
@@ -121,7 +124,7 @@ global.wm3 = '⫹⫺ Yui - Chan '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Rava`
-global.author = '               「 Yui - Chan  あ⁩ 」'
+global.author = '                「 Yui - Chan  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
