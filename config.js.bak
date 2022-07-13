@@ -54,31 +54,25 @@ global.povo = '081212035575'
 global.pgopay = '081212035575'
 global.ppulsa = '081212035575'
 global.ppulsa2 = '089513388950'
-global.psaweria = 'a'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289513388950'
+global.nomorbot = '6281212035575'
 global.nomorown = '6281212035575'
-global.nomorpart = '6289513388950'
+global.nomorpart = '6281212035575'
 global.namebot = 'Yui - Chan'
 global.nameown = 'Rava - Kun'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true],
-  ['6281212035575', 'Rava', true]
+  ['6281212035575', 'Pfft', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [
 	['6281212035575', 'Rava', true]
 ] 
-global.prems = [
-	['6281212035575', 'Rava', true]
-] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [ ] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
